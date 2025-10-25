@@ -43,6 +43,7 @@ Diese Anwendung ermöglicht Studierenden, Dozierenden und Hochschulangehörigen,
    ```
 
 2. **Apache Maven installieren**
+   
    [Binary-Datei](https://maven.apache.org/download.cgi) herunterladen und Pfad zum `/bin`-Ordner in die Umgebungsvariable hinzufügen (PATH).
 
 3. **Build ausführen**
@@ -56,6 +57,7 @@ Diese Anwendung ermöglicht Studierenden, Dozierenden und Hochschulangehörigen,
    ```
 
 5. **Aufruf im Browser**
+   
    http://localhost:8080/klausurplan
 
 ---
