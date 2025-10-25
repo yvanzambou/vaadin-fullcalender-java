@@ -5,7 +5,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Diese Anwendung ermöglicht Studierenden, Dozierenden und Hochschulangehörigen, **Klausuren und Prüfungen einzusehen** und **persönlich zu planen**.  
+Diese Anwendung ermöglicht Studierenden, Dozierenden und Hochschulangehörigen, **Klausuren und Prüfungen** aus einer CSV-Datei einzusehen und diese **persönlich zu planen**.  
 Über eine intuitive Weboberfläche können Prüfungen gefiltert, vorgemerkt und für externe Kalenderdienste exportiert werden.
 
 ---
@@ -66,7 +66,7 @@ Diese Anwendung ermöglicht Studierenden, Dozierenden und Hochschulangehörigen,
 
 - Alle Daten (Benutzer- und KlausurenIDs ) werden mit EclipseStore persistiert.
 - Als Speicherziel dient eine SQLite-Datenbankdatei (`users-storage.db`) im Projektverzeichnis, die erst beim Start der Anwendung angelegt wird.
-- Jeder Benutzer erhält eine eindeutige UUID und kann seine persönlichen Filter- und Exportdaten über einen individuellen Link wieder aufrufen.
+- Jeder Benutzer erhält eine eindeutige UUID und kann damit seine vorgemerkten Klausurdaten beim nächsten Besuch über einen individuellen Link wieder aufrufen.
 
 ---
 
