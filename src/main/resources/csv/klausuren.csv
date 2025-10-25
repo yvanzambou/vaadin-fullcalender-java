@@ -1,0 +1,72 @@
+ID,DATUM,ZEIT,GRUPPEN,NAME,PRUEFER,RAEUME
+94,"Mo., 30.06.",13:00,"EP7-TI,I3,E5-TI,M5-MI",Algorithmen und Datenstrukturen,Elin Mask,S309
+97,"Di., 01.07.",10:30,M1,Arbeitstechniken,Billie Gateson,"Dynexite,S5"
+98,"Di., 24.06.",13:00,M1,Audio-/Videotechnik 1,Stevi Jobsen,"Dynexite,Coram"
+3,"Fr., 20.06.",15:30,M2,Audio-/Videotechnik 2,Marck Zuckerhaus,"Dynexite,Coram"
+99,"Fr., 27.06.",10:30,M3,Audio-/Videotechnik 3,Jeff Bezzon,"Dynexite,Coram"
+101,"Di., 01.07.",10:30,"EP7-AT,E5-AT",Automatisierungssysteme 1,Tim Kühn,S209
+5,"Mi., 02.07.",08:00,"E6-AT,EP8-AT",Automatisierungssysteme 2,Satia Nadell,S316
+6,"Mi., 02.07.",13:00,M4,Autorensysteme,Susan Wojcika,T151
+102,"Sa., 14.06.",13:00,"EP5,E3",Bauelemente der Elektrotechnik,Larry Peg,T151
+7,"Di., 01.07.",15:30,"I4,IP4,M6-MI",Betriebssysteme,Serge Brinn,Coram
+103,"Sa., 21.06.",15:30,"E6,I4,M5,EP5",Betriebswirtschaft,Linus Torvaldsen,Coram
+8,"Sa., 21.06.",15:30,I2,Betriebswirtschaftslehre,Ada Lövle,Coram
+9,"Mi., 25.06.",08:00,"I2,IP2",C/C++,Grace Hoppmann,Coram
+105,"Di., 01.07.",13:00,"IP7,I5",Data Science,Alan Turinger,S309
+13,"Di., 17.06.",10:30,"EP8-NT,EP8-TI,M4,E6-NT,E6-TI",Digitale Signalverarbeitung,Katherine Johnsons,T151
+14,"Mo., 30.06.",13:00,MII1,Digitalization Engineering,Elon Stone,T151
+15,"Fr., 04.07.",15:30,"E4,EP6",Digitaltechnik,Branda Sandbock,Coram
+16,"Fr., 04.07.",15:30,"I4-TI,IP6-TI",Digitaltechnik für Informatik,Sundar Patje,Coram
+109,"Sa., 14.06.",10:30,"I1,IP1",Einführung in die Informatik,Sheryl Sandwall,S309
+110,"Di., 24.06.",13:00,"EP7-AT,EP7-RE,E5-AT,E5-RE",Elektrische Antriebe,Peter Thayl,T-Foyer
+111,"Mi., 18.06.",10:30,"EP5,E3",Elektrische Energietechnik,Riana Fentyn,S309
+112,"Do., 26.06.",10:30,"EP5,E3",Elektrische Maschinen,Taylor Swiftly,S316
+17,"Sa., 14.06.",10:30,"EP2,E2",Elektrische Messtechnik,Beyonsha Knolls,S209
+19,"Fr., 27.06.",13:00,M2,Elektrotechnik,Adele Atkinsen,T151
+113,"Mi., 25.06.",10:30,"EP1,E1",Elektrotechnik 1,Ed Sheering,"S309,S316"
+20,"Mi., 02.07.",10:30,"EP2,E2",Elektrotechnik 2,Justin Beebs,T151
+21,"Do., 19.06.",10:30,"EP6,E4",Entwurf elektronischer Geräte,Selena Gomas,Coram
+116,"Di., 17.06.",10:30,"E1,I1,IP1,EP3",Grundlagen der Digitalisierung/Einf. in die Informatik,Ariana Grandez,"S202,S217"
+117,"Fr., 27.06.",10:30,"I3,IP5-IST",Grundlagen der IT-Sicherheit,Katy Perryson,S309
+118,"Di., 01.07.",13:00,"EP1,E1",Grundlagen der Mathematik 1,Lady Gagha,S209
+130,"Di., 01.07.",13:00,"EP1,E1",Mathematik 1,Nicki Mirage,S209
+24,"Fr., 20.06.",10:30,"E1,EP2",Grundlagen der Programmierung,Billie Eilash,"E215,E216,E213,E217"
+25,"Mo., 23.06.",13:00,"EP6,E4",Halbleiterschaltungstechnik,Dua Lipan,S309
+120,"Fr., 20.06.",13:00,"I1,IP3",Hardwaregrundlagen (PO17),Shawn Mendeson,S316
+121,"Mo., 30.06.",10:30,"I1,IP3",Hardwaregrundlagen (PO24),Harry Styleson,S209
+26,"Fr., 20.06.",13:00,"EP3,I3,E2,IP5",Hardwarenahe Programmierung,Chris Evansworth,"E215,E216,E213,E217"
+124,"Di., 17.06.",13:00,M3,Internet-Grundlagen,Robert Dowen Jr.,S209
+30,"Mo., 23.06.",13:00,M4,Internet-Programmierung,Scarlett Johannsen,T151
+31,"Do., 26.06.",13:00,"I4,IP6",Internet-Technologien,Tom Hollend,Coram
+35,"Di., 24.06.",08:00,"EP2,E2",Lineare Algebra und Vektoranalysis,Zendeya Mare,S309
+127,"Do., 26.06.",13:00,"EP7-MV,IP5-MV,E5-MV,I5-MV,M5-MV",Marketing für Ingenieure,Emma Watsons,T-Foyer
+131,"Mo., 16.06.",13:00,M1,Mathematik 1,Daniel Radcliffson,S309
+132,"Fr., 27.06.",10:30,"I1,IP1",Mathematik 1,Rupert Grind,S209
+119,"Di., 17.06.",10:30,"EP2,E2",Mathematik 2,Jennifer Lawrencen,S309
+23,"Di., 17.06.",10:30,"EP2,E2",Grundlagen der Mathematik 2,Leonardo DiCaprine,S309
+37,"Di., 01.07.",08:00,M2,Mathematik 2,Brad Pitters,T-Foyer
+36,"Mi., 18.06.",10:30,"I2,IP2",Mathematik 2,Angelina Jolié,Coram
+133,"Mo., 16.06.",10:30,"I3,IP3",Mathematik 3,Morgan Freemann,S209
+134,"Mo., 23.06.",13:00,"EP3,E3",Mathematik 3,Samuel L. Jacksen,"Dynexite,E216"
+135,"Fr., 20.06.",13:00,M3,Mathematik 3,Keanu Reefs,S209
+136,"Mo., 23.06.",10:30,"I1,IP5",Mensch-Computer-Interaktion,Natalie Portmanne,S316
+137,"Mo., 16.06.",10:30,"E5,IP5-TI,EP7,I5-TI",Mikrocomputertechnik,Matt Damons,S309
+139,"Di., 01.07.",10:30,M3,Nachrichtentechnik 1,Ben Afflick,T151
+40,"Do., 26.06.",10:30,"EP6,E4",Nachrichtentechnik 1,Hugh Jackmann,S309
+140,"Di., 24.06.",10:30,"EP7-NT,E5-NT,M5-AVT",Nachrichtentechnik 2,Anne Hathawaye,S309
+41,"Di., 01.07.",13:00,"IP8,I6",Parallele und verteilte Systeme,Ryan Goslyn,Coram
+141,"Fr., 04.07.",13:00,"M1,EP3,E1",Physik,Emma Stoune,T149
+143,"Do., 03.07.",08:00,I1,Programmieren 1,Chris Prattley,S209
+144,"Do., 19.06.",13:00,M1,Programmieren 1,Gal Gadette,T151
+145,"Fr., 27.06.",13:00,"E2,EP3",Programmieren 2,Jason Momor,S309
+75,"Fr., 04.07.",08:00,I2,Programmieren 2,Robert Pattinzon,T-Foyer
+147,"Di., 01.07.",13:00,"EP5,E3",Programmieren 3,Kristen Stewert,T151
+76,"Sa., 14.06.",08:00,"E4,I4,EP6,IP6",Rechnerarchitekturen,Tom Hardee,S316
+77,"Sa., 28.06.",15:30,"E6,EP8,I2,IP4",Rechnernetze,Margot Robbin,Coram
+78,"Do., 19.06.",13:00,"I6,M6",Recht und Datenschutz,Florence Pughe,T-Foyer
+154,"Do., 19.06.",10:30,"EP7-AT,E5-AT",Regelung und Simulation,Adam Driveron,"Dynexite,E216"
+79,"Mo., 30.06.",10:30,"E4,EP6",Regelungstechnik,Daisy Ridle,S5
+80,"Di., 17.06.",13:00,"EP8-RE,E6-RE",Regenerative Energien 2,Oscar Isaacs,S316
+82,"Mo., 23.06.",15:30,"I6,IP8",Software-Qualitätsmanagement,Pedro Paschal,Coram
+81,"Di., 17.06.",10:30,"I4,IP4",Softwareprojektmanagement,Benedict Cumberstane,T-Foyer
+159,"Mo., 23.06.",10:30,"I3,IP3",Theoretische Informatik,Cillian Murphe,S309

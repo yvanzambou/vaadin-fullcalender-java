@@ -1,0 +1,21 @@
+# Maven / Build
+/target/
+.idea/
+.vscode/
+.settings
+.project
+.classpath
+
+*.iml
+.DS_Store
+
+# Datenbank-Dateien
+users-storage.db
+
+# The following files are generated/updated by vaadin-maven-plugin
+node_modules/
+src/main/frontend/generated/
+vite.generated.ts
+
+# Log- und temporäre Dateien
+*.log
