@@ -62,6 +62,40 @@ Diese Anwendung ermöglicht Studierenden, Dozierenden und Hochschulangehörigen,
 
 ---
 
+## 🖼️ Screenshots  
+
+<p align="center">
+  <img src="src/main/resources/img/startseite.png" alt="Startseite" width="600" />
+  <br>
+  <em>Abbildung 1: Startseite</em>
+</p>
+<br><br>
+<p align="center">
+  <img src="src/main/resources/img/wochenansicht.png" alt="Wochenansicht" width="600" />
+  <br>
+  <em>Abbildung 2: Wochenansicht des Kalenders</em>
+</p>
+<br><br>
+<p align="center">
+  <img src="src/main/resources/img/tagesansicht.png" alt="Tagesansicht" width="600" />
+  <br>
+  <em>Abbildung 3: Tagesansicht des Kalenders</em>
+</p>
+<br><br>
+<p align="center">
+  <img src="src/main/resources/img/klausureninfos.png" alt="Klausurendetails" width="600" />
+  <br>
+  <em>Abbildung 4: Klausureninformation</em>
+</p>
+<br><br>
+<p align="center">
+  <img src="src/main/resources/img/vorgemerkte_klausuren.png" alt="vorgemerkte Klausuren" width="600" />
+  <br>
+  <em>Abbildung 5: vorgemerkte Klausuren</em>
+</p>
+
+---
+
 ## 💾 Datenhaltung
 
 - Alle Daten (Benutzer- und KlausurenIDs ) werden mit EclipseStore persistiert.
