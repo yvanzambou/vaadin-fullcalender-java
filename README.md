@@ -118,5 +118,3 @@ Die Anwendung dient ausschließlich Demonstrations- und Evaluationszwecken.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/yvan-zambou-29aba9261)  
 [![GitHub](https://img.shields.io/badge/GitHub-Projekte-black?logo=github)](https://github.com/yvanzambou)  
-
----
