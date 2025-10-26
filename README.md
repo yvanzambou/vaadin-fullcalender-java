@@ -12,7 +12,7 @@ Diese Anwendung ermöglicht Studierenden, Dozierenden und Hochschulangehörigen,
 
 ## 🎯 Funktionen
 
-- **Klausuren filtern** nach Studiengang, Semester oder Modul  
+- **Klausuren filtern** nach Studierengruppe, Dozent, Raum oder Klausur selbst
 - **Vormerken gewünschter Prüfungen** für den späteren Export  
 - **Export als .ICS (iCalendar)** zur Integration in externe Kalender (z. B. Google Calendar)  
 - **Drei Kalenderansichten**: Monat, Woche, Tag  
